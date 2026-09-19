@@ -25,7 +25,7 @@ O sistema busca incentivar o **consumo consciente de água** por meio da anális
 2. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/luizfelipeoluveira/consumo-agua
 ```
 
 3. Execute o programa:
